@@ -1,2 +1,3 @@
+By [Divyansh Kumar](https://github.com/jordandivyansh) and [Aayush Singh](https://github.com/aayushishere)
 # Multithread-Web-Server
- python based multithreaded web-server to accept connection requests from multiple clients while simultaneously performing operations on another client
+The main aim of the project based on the theme Multithreaded Web-server is that a thread should be able to take a request from a process and the same thread should be able to create multiple child threads for execution of submitted process.Multithreading is the ability of a program or an operating system process to manage its use by more than one user at a time and to simultaneously manage multiple requests by the same user without having to have multiple copies of the programming running in the computer. Our project is an attempt to implement this feature of operating systems in form of a multithreaded web-server. 
